@@ -12,4 +12,7 @@ Este tutorial apresenta ao leitor informalmente os conceitos e recursos básicos
 
 Para obter uma descrição de objetos e módulos padrão, consulte The Python Standard Library . O Python Language Reference fornece uma definição mais formal da linguagem. Para escrever extensões em C ou C++, leia Extending and Embedding the Python Interpreter and Python/C API Reference Manual . Existem também vários livros que cobrem o Python em profundidade.
 
-Este tutorial não pretende ser abrangente e cobrir todos os recursos, ou mesmo todos os recursos comumente usados. Em vez disso, ele apresenta muitos dos recursos mais notáveis do Python e lhe dará uma boa ideia do sabor e do estilo da linguagem. Depois de lê-lo, você será capaz de ler e escrever módulos e programas Python e estará pronto para aprender mais sobre os vários módulos da biblioteca Python descritos em The Python Tutorial
+Este tutorial não pretende ser abrangente e cobrir todos os recursos, ou mesmo todos os recursos comumente usados. Em vez disso, ele apresenta muitos dos recursos mais notáveis do Python e lhe dará uma boa ideia do sabor e do estilo da linguagem. Depois de lê-lo, você será capaz de ler e escrever módulos e programas Python e estará pronto para aprender mais sobre os vários módulos da biblioteca Python descritos em [The Python Tutorial](https://docs.python.org/3/library/index.html#library-index)
+
+
+The [Glossary](https://docs.python.org/3/glossary.html#glossary) is also worth going through.
